@@ -172,8 +172,6 @@ After going through this presentation, a user will be able to:
 Computer Engineering Student | Cybersecurity Enthusiast  
 Stanley College of Engineering and Technology for Women  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 
 ---
 
